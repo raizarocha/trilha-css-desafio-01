@@ -1,0 +1,88 @@
+@import url("./reset.css");
+
+body {
+  background-color: #000000;
+  text-align: center;
+}
+
+.banner-content {
+  background-image: url("../images/banner.png");
+  background: linear-gradient(
+    #000000 60%, #31A8DD 0%,
+  );
+  background-repeat: no-repeat;
+}
+
+h1 {
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 46.96px;
+  text-transform: uppercase;
+  background: linear-gradient(360deg,
+    #33A8DB 100%,
+    #1472b7 100%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+h2 {
+  color: #33A8DB;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 37.57px;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+
+.button {
+  border: 2px solid #31A8DD;
+  background-color: transparent;
+  font-weight: 900;
+  font-size: 16px;
+  color: #31A8DD;
+  text-transform: uppercase;
+  line-height: 18.78px;
+  padding: 19px 91px;
+}
+
+p {
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23.48px;
+  align-content: center;
+}
+
+#logo {
+  width: 248px;
+  height: 214px;
+  top: 27px;
+  left: 131px;
+  border-radius: 50% 50%;
+  background-color: #00000020;
+  margin: 25px;
+  padding: 15px;
+}
+
+section#transform-world {
+  background-image: url("../images/woman-code.png");
+  height: 363px;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+span {
+  color: #33A8DB;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18.78px;
+}
+
+.module {
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18.78px;
+}
