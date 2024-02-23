@@ -3,6 +3,8 @@
 
 Neste repositório será possível ter acesso a construção de uma Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS, as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas.
 
+Neste [link](https://raizarocha.github.io/trilha-css-desafio-01/) é possível acessar o resultado final do projeto desenvolvido neste repositório.
+
 ## 👩🏽‍💻 Tecnologias utilizadas
 - CSS3 para a estilização da Landing Page;
 - Figma para ter acesso ao protótipo do projeto.
