@@ -16,7 +16,7 @@ p {
 .banner {
   padding-top: 56px;
   height: 605px;
-  border-bottom: 1px solid #33A8DB;
+  border-bottom: 1px solid #33A8DB80;
   background-image: linear-gradient(
     rgba(0, 0, 0, 0.6),
     rgba(49, 168, 221, 0.2),
@@ -132,8 +132,8 @@ span {
   background-image: url("../images/woman-code.png");
   background-size: cover;
   background-attachment: fixed;
-  border-top: 1px solid #33A8DB;
-  border-bottom: 1px solid #33A8DB;
+  border-top: 1px solid #33A8DB80;
+  border-bottom: 1px solid #33A8DB80;
 }
 
 #transform-world p {
@@ -165,10 +165,10 @@ span {
 
 footer {
   padding: 60px 0;
-  border-top: 1px solid #33A8DB;
+  border-top: 0.1px solid #33A8DB80;
   background: linear-gradient(
     rgba(50, 168, 219, .0),
-    rgba(50, 168, 219, .2),
+    rgba(50, 168, 219, .2)
   );
 }
 
