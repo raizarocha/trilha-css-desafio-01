@@ -128,9 +128,23 @@ span {
 }
 
 #transform-world {
-  height: 560px;
+  height: 500px;
   background-image: url("../images/woman-code.png");
-  height: 363px;
   background-size: cover;
   background-attachment: fixed;
+  border-top: 1px solid #33A8DB;
+  border-bottom: 1px solid #33A8DB;
+}
+
+#transform-world p {
+  width: 244px;
+  height: 141px;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 46.96px;
+  text-align: left;
+  text-transform: lowercase;
+  text-shadow: 3px 2px #33A8DB;
+  margin-left: 260px;
+  margin-top: 180px;
 }
