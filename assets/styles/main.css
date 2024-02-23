@@ -56,6 +56,9 @@ h1 {
 }
 
 h2 {
+  width: 746px;
+  height: 76px;
+  margin: auto;
   color: #33A8DB;
   font-weight: 700;
   font-size: 32px;
@@ -147,4 +150,18 @@ span {
   text-shadow: 3px 2px #33A8DB;
   margin-left: 260px;
   margin-top: 180px;
+}
+
+#professional-challenges img {
+  margin: 32px 0;
+}
+
+#professional-challenges p {
+  width: 792px;
+  height: 76px;
+  margin: auto;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18.78px;
+  text-align: center;
 }
