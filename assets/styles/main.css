@@ -46,10 +46,7 @@ h1 {
   font-size: 40px;
   line-height: 46.96px;
   text-transform: uppercase;
-  background: -webkit-linear-gradient(
-    #33A8DB,
-    #1472b7
-  );
+  background: -webkit-linear-gradient(#33A8DB, #1472b7);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -164,4 +161,32 @@ span {
   font-size: 16px;
   line-height: 18.78px;
   text-align: center;
+}
+
+footer {
+  padding: 60px 0;
+  border-top: 1px solid #33A8DB;
+  background: linear-gradient(
+    rgba(50, 168, 219, .0),
+    rgba(50, 168, 219, .2),
+  );
+}
+
+footer .dio-logo {
+  width: 300px;
+  height: 44px;
+}
+
+footer p {
+  margin: auto;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18.78px;
+  text-align: center;
+}
+
+footer a {
+  text-decoration-line: none;
+  color: #31A8DD;
+  font-weight: 700;
 }
